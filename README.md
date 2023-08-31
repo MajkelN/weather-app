@@ -23,6 +23,7 @@ If you have any issues, please let me know in the issues section or directly to 
 * React 18
 * React Hook Form 7
 * React Router Dom 6
+* Styled Components
 * Swiper 10
 * Font Awesome
 
